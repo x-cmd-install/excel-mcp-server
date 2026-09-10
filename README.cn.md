@@ -4,7 +4,7 @@
 
 A Model Context Protocol server for Excel file manipulation
 
-![excel-mcp-server](https://repo.x-cmd.io/excel-mcp-server.svg)
+![excel-mcp-server](https://repo.x-cmd.io/excel-mcp-server.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install excel-mcp-server
 
 - **最新版本**: `v0.1.8` (2026-04-12)
 - **最近提交**: 2026-04-12
-- **发布时间**: 2026-04-12T06:14:45Z
 
 ## 流行度
 
-- **Star**: 4,173 · **Fork**: 460 · **开放 issue**: 82 · **贡献者**: 11
+- **Star**: 4,175 · **Fork**: 460 · **开放 issue**: 82 · **贡献者**: 11
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ excel-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:51:52Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:30:15Z._
