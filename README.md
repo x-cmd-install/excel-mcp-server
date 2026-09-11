@@ -12,6 +12,18 @@ A Model Context Protocol server for Excel file manipulation
 x install excel-mcp-server
 ```
 
+## Code insight
+
+Total: **2,821** lines of code across **19** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 2,678 | 159 | 397 | 15 |
+| Html | 58 | 0 | 4 | 1 |
+| Json | 53 | 0 | 0 | 1 |
+| Toml | 24 | 0 | 4 | 1 |
+| Svg | 8 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/haris-musa/excel-mcp-server>
@@ -35,21 +47,12 @@ x install excel-mcp-server
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 6 | 0 | 8 | 0 |
-| 360d | 2025-09-15 | 1 | 2 | 12 | 3 | 31 | 3 |
-
-## Code size
-
-Total: **2,821** lines of code across **19** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 2,678 | 159 | 397 | 15 |
-| Html | 58 | 0 | 4 | 1 |
-| Json | 53 | 0 | 0 | 1 |
-| Toml | 24 | 0 | 4 | 1 |
-| Svg | 8 | 0 | 0 | 1 |
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 5 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 6 | 0 | 8 | 0 |
+| last180d | 2026-03-15 | 1 | 0 | 8 | 0 | 21 | 1 |
+| 360d | 2025-09-16 | 1 | 2 | 12 | 3 | 31 | 3 |
+| last720d | 2024-09-21 | 8 | 38 | 16 | 27 | 55 | 46 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for excel-mcp-server lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:30:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:14:26Z._
