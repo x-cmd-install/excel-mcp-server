@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.8"
   latestRelease: "v0.1.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:49:08Z
+  collectedAt: 2026-09-11T20:10:45Z
 timeline:
   created: 2025-02-12
   lastCommit: 2026-04-12
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-12
   lastPrerelease: 
 popularity:
-  star: 4176
+  star: 4179
   watcher: 23
-  fork: 460
+  fork: 461
   release: 8
   contributor: 11
   pullRequest: 70
@@ -83,7 +83,7 @@ total:
   commit: 46
 ---
 path: /home/runner/.x-repo/github.com/haris-musa/excel-mcp-server
-collectedAt: 2026-09-11T04:49:08Z
+collectedAt: 2026-09-11T20:10:46Z
 loc:
   Python:
     code: 2678
