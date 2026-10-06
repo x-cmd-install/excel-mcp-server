@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 123713,
       "digest": "sha256:cd3cc1abf6936f97e6ef1c06d93a72302a9ab5d1fd1abd93ee41153ef509e58a",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-09-28T16:10:20Z",
       "updated_at": "2026-09-28T16:10:20Z",
       "browser_download_url": "https://github.com/haris-musa/excel-mcp-server/releases/download/v1.1.1/excel-mcp-server-1.1.1.mcpb"
