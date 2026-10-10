@@ -14,12 +14,12 @@ x install excel-mcp-server
 
 ## Code insight
 
-Total: **55,852** lines of code across **240** files in the top 5 languages.
+Total: **56,973** lines of code across **250** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 33,389 | 178 | 6,044 | 232 |
-| Json | 22,310 | 0 | 0 | 5 |
+| Python | 34,514 | 188 | 6,313 | 242 |
+| Json | 22,306 | 0 | 0 | 5 |
 | Toml | 70 | 1 | 9 | 1 |
 | Html | 57 | 0 | 4 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
@@ -33,27 +33,27 @@ Total: **55,852** lines of code across **240** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.2` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 4,219 · **Forks**: 470 · **Open issues**: 84 · **Contributors**: 11
+- **Stars**: 4,224 · **Forks**: 469 · **Open issues**: 84 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 66 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 0 · **Commits**: 107
+- **Releases**: 12 · **Merged PRs**: 70 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 0 · **Commits**: 114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 4 | 28 | 1 | 2 | 0 | 61 |
-| last60d | 2026-08-10 | 4 | 28 | 1 | 6 | 0 | 61 |
-| 90d | 2026-07-11 | 4 | 28 | 1 | 7 | 0 | 61 |
-| last180d | 2026-04-12 | 5 | 28 | 1 | 14 | 0 | 61 |
-| 360d | 2025-10-14 | 5 | 30 | 1 | 33 | 0 | 64 |
-| last720d | 2024-10-19 | 12 | 66 | 1 | 84 | 0 | 107 |
+| 30d | 2026-09-10 | 4 | 32 | 1 | 2 | 0 | 68 |
+| last60d | 2026-08-11 | 4 | 32 | 1 | 6 | 0 | 68 |
+| 90d | 2026-07-12 | 4 | 32 | 1 | 7 | 0 | 68 |
+| last180d | 2026-04-13 | 4 | 32 | 1 | 14 | 0 | 68 |
+| 360d | 2025-10-15 | 5 | 34 | 1 | 33 | 0 | 71 |
+| last720d | 2024-10-20 | 12 | 70 | 1 | 84 | 0 | 114 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for excel-mcp-server lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:10:45Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:57:21Z._
