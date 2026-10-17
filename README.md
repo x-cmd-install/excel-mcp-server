@@ -14,13 +14,13 @@ x install excel-mcp-server
 
 ## Code insight
 
-Total: **61,882** lines of code across **276** files in the top 5 languages.
+Total: **63,149** lines of code across **281** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 37,807 | 227 | 6,948 | 268 |
+| Python | 39,072 | 241 | 7,140 | 273 |
 | Json | 23,624 | 0 | 0 | 5 |
-| Html | 337 | 0 | 6 | 1 |
+| Html | 339 | 0 | 6 | 1 |
 | Toml | 90 | 1 | 9 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
 
@@ -32,37 +32,37 @@ Total: **61,882** lines of code across **276** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.0` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Latest**: `v2.1.1` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,245 · **Forks**: 471 · **Open issues**: 87 · **Contributors**: 11
+- **Stars**: 4,245 · **Forks**: 479 · **Open issues**: 88 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 77 · **Open PRs**: 0 · **Closed issues**: 84 · **Open issues**: 3 · **Commits**: 152
+- **Releases**: 15 · **Merged PRs**: 83 · **Open PRs**: 0 · **Closed issues**: 88 · **Open issues**: 0 · **Commits**: 159
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 5 | 39 | 0 | 1 | 3 | 106 |
-| last60d | 2026-08-17 | 5 | 39 | 0 | 5 | 3 | 106 |
-| 90d | 2026-07-18 | 5 | 39 | 0 | 7 | 3 | 106 |
-| last180d | 2026-04-19 | 5 | 39 | 0 | 14 | 3 | 106 |
-| 360d | 2025-10-21 | 6 | 41 | 0 | 31 | 3 | 109 |
-| last720d | 2024-10-26 | 13 | 77 | 0 | 84 | 3 | 152 |
+| 30d | 2026-09-17 | 7 | 45 | 0 | 5 | 0 | 113 |
+| last60d | 2026-08-18 | 7 | 45 | 0 | 9 | 0 | 113 |
+| 90d | 2026-07-19 | 7 | 45 | 0 | 11 | 0 | 113 |
+| last180d | 2026-04-20 | 7 | 45 | 0 | 18 | 0 | 113 |
+| 360d | 2025-10-22 | 8 | 47 | 0 | 35 | 0 | 116 |
+| last720d | 2024-10-27 | 15 | 83 | 0 | 88 | 0 | 159 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [excel-mcp-server-2.0.0.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.0.0/excel-mcp-server-2.0.0.mcpb) | 495.0 KiB | `other` |
-| [excel-mcp-server.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.0.0/excel-mcp-server.mcpb) | 495.0 KiB | `other` |
-| [excel_mcp_server-2.0.0-py3-none-any.whl](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.0.0/excel_mcp_server-2.0.0-py3-none-any.whl) | 388.2 KiB | `other` |
-| [excel_mcp_server-2.0.0.tar.gz](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.0.0/excel_mcp_server-2.0.0.tar.gz) | 310.5 KiB | `native/unknown` |
+| [excel-mcp-server-2.1.1.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.1.1/excel-mcp-server-2.1.1.mcpb) | 504.1 KiB | `other` |
+| [excel-mcp-server.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.1.1/excel-mcp-server.mcpb) | 504.1 KiB | `other` |
+| [excel_mcp_server-2.1.1-py3-none-any.whl](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.1.1/excel_mcp_server-2.1.1-py3-none-any.whl) | 394.1 KiB | `other` |
+| [excel_mcp_server-2.1.1.tar.gz](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.1.1/excel_mcp_server-2.1.1.tar.gz) | 315.8 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for excel-mcp-server lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:39:55Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:26:56Z._
