@@ -1,0 +1,136 @@
+about:
+  description: "Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required."
+  license: MIT
+  homepage: https://excelmcpserver.com
+  head: b4f8e22
+  archived: false
+  latestVersion: "v2.2.3"
+  latestRelease: "v2.2.3"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:48:17Z
+timeline:
+  created: 2025-02-12
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 
+popularity:
+  star: 4269
+  watcher: 22
+  fork: 478
+  release: 19
+  contributor: 11
+  pullRequest: 141
+  issue: 89
+language:
+  Python: 2058477
+  Dockerfile: 414
+totalBytes: 2058891
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 8
+    mergedPR: 56
+    openPR: 0
+    closedIssue: 6
+    openIssue: 0
+    commit: 132
+  last60d:
+    since: 2026-08-31
+    release: 11
+    mergedPR: 61
+    openPR: 0
+    closedIssue: 9
+    openIssue: 0
+    commit: 140
+  last90d:
+    since: 2026-08-01
+    release: 11
+    mergedPR: 61
+    openPR: 0
+    closedIssue: 12
+    openIssue: 0
+    commit: 140
+  last180d:
+    since: 2026-05-03
+    release: 11
+    mergedPR: 61
+    openPR: 0
+    closedIssue: 18
+    openIssue: 0
+    commit: 140
+  last360d:
+    since: 2025-11-04
+    release: 12
+    mergedPR: 63
+    openPR: 0
+    closedIssue: 35
+    openIssue: 0
+    commit: 143
+  last720d:
+    since: 2024-11-09
+    release: 19
+    mergedPR: 99
+    openPR: 0
+    closedIssue: 89
+    openIssue: 0
+    commit: 186
+total:
+  release: 19
+  mergedPR: 99
+  openPR: 0
+  closedIssue: 89
+  openIssue: 0
+  commit: 186
+---
+path: /home/runner/.x-repo/github.com/haris-musa/excel-mcp-server
+collectedAt: 2026-10-30T05:48:18Z
+loc:
+  Python:
+    code: 45297
+    comments: 303
+    blanks: 8261
+    files: 312
+  Json:
+    code: 24292
+    comments: 0
+    blanks: 0
+    files: 6
+  Html:
+    code: 299
+    comments: 0
+    blanks: 11
+    files: 1
+  Toml:
+    code: 90
+    comments: 1
+    blanks: 9
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 0
+    blanks: 4
+    files: 1
+  Xml:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 7
+  Svg:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 6
+  Markdown:
+    code: 0
+    comments: 2129
+    blanks: 486
+    files: 8
+total:
+  code: 70441
+  comments: 2433
+  blanks: 8771
+  files: 342
+---
+
+---
