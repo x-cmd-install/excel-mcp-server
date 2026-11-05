@@ -33,27 +33,27 @@ Total: **70,795** lines of code across **326** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.6` (2026-10-31)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-04
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,273 · **Forks**: 479 · **Open issues**: 89 · **Contributors**: 11
+- **Stars**: 4,276 · **Forks**: 479 · **Open issues**: 89 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 104 · **Open PRs**: 2 · **Closed issues**: 89 · **Open issues**: 0 · **Commits**: 194
+- **Releases**: 22 · **Merged PRs**: 107 · **Open PRs**: 0 · **Closed issues**: 89 · **Open issues**: 0 · **Commits**: 197
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 11 | 61 | 2 | 5 | 0 | 77 |
-| last60d | 2026-09-05 | 14 | 66 | 2 | 8 | 0 | 148 |
-| 90d | 2026-08-06 | 14 | 66 | 2 | 12 | 0 | 148 |
-| last180d | 2026-05-08 | 14 | 66 | 2 | 18 | 0 | 148 |
-| 360d | 2025-11-09 | 15 | 68 | 2 | 33 | 0 | 151 |
-| last720d | 2024-11-14 | 22 | 104 | 2 | 89 | 0 | 194 |
+| 30d | 2026-10-06 | 11 | 64 | 0 | 5 | 0 | 80 |
+| last60d | 2026-09-06 | 14 | 69 | 0 | 8 | 0 | 151 |
+| 90d | 2026-08-07 | 14 | 69 | 0 | 11 | 0 | 151 |
+| last180d | 2026-05-09 | 14 | 69 | 0 | 18 | 0 | 151 |
+| 360d | 2025-11-10 | 15 | 71 | 0 | 33 | 0 | 154 |
+| last720d | 2024-11-15 | 22 | 107 | 0 | 89 | 0 | 197 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for excel-mcp-server lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:15:44Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:49:29Z._
