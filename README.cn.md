@@ -14,12 +14,12 @@ x install excel-mcp-server
 
 ## 代码洞察
 
-合计: **186,901** 行代码（覆盖前 5 种语言、共 **370** 个文件）。
+合计: **187,195** 行代码（覆盖前 5 种语言、共 **371** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 128,393 | 0 | 0 | 6 |
-| Python | 58,095 | 384 | 9,594 | 361 |
+| Json | 128,485 | 0 | 0 | 6 |
+| Python | 58,297 | 386 | 9,618 | 362 |
 | Html | 299 | 0 | 11 | 1 |
 | Toml | 90 | 1 | 9 | 1 |
 | Dockerfile | 11 | 0 | 4 | 1 |
@@ -32,37 +32,37 @@ x install excel-mcp-server
 
 ## 发布
 
-- **最新版本**: `v2.3.0` (2026-11-09)
-- **最近提交**: 2026-11-10
+- **最新版本**: `v2.3.1` (2026-11-15)
+- **最近提交**: 2026-11-15
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 4,305 · **Fork**: 485 · **开放 issue**: 91 · **贡献者**: 11
+- **Star**: 4,309 · **Fork**: 486 · **开放 issue**: 91 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 118 · **开放 PR**: 2 · **已关闭 issue**: 89 · **开放 issue**: 2 · **提交数**: 218
+- **发布数**: 27 · **已合并 PR**: 123 · **开放 PR**: 0 · **已关闭 issue**: 91 · **开放 issue**: 0 · **提交数**: 223
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 13 | 35 | 2 | 1 | 2 | 66 |
-| last60d | 2026-09-16 | 18 | 80 | 2 | 6 | 2 | 172 |
-| 90d | 2026-08-17 | 18 | 80 | 2 | 10 | 2 | 172 |
-| last180d | 2026-05-19 | 18 | 80 | 2 | 16 | 2 | 172 |
-| 360d | 2025-11-20 | 19 | 82 | 2 | 31 | 2 | 175 |
-| last720d | 2024-11-25 | 26 | 118 | 2 | 89 | 2 | 218 |
+| 30d | 2026-10-17 | 12 | 40 | 0 | 3 | 0 | 41 |
+| last60d | 2026-09-17 | 19 | 85 | 0 | 8 | 0 | 177 |
+| 90d | 2026-08-18 | 19 | 85 | 0 | 12 | 0 | 177 |
+| last180d | 2026-05-20 | 19 | 85 | 0 | 18 | 0 | 177 |
+| 360d | 2025-11-21 | 20 | 87 | 0 | 33 | 0 | 180 |
+| last720d | 2024-11-26 | 27 | 123 | 0 | 91 | 0 | 223 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [excel-mcp-server-2.3.0.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.0/excel-mcp-server-2.3.0.mcpb) | 631.6 KiB | `other` |
-| [excel-mcp-server.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.0/excel-mcp-server.mcpb) | 631.6 KiB | `other` |
-| [excel_mcp_server-2.3.0-py3-none-any.whl](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.0/excel_mcp_server-2.3.0-py3-none-any.whl) | 510.7 KiB | `other` |
-| [excel_mcp_server-2.3.0.tar.gz](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.0/excel_mcp_server-2.3.0.tar.gz) | 412.1 KiB | `native/unknown` |
+| [excel-mcp-server-2.3.1.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.1/excel-mcp-server-2.3.1.mcpb) | 633.5 KiB | `other` |
+| [excel-mcp-server.mcpb](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.1/excel-mcp-server.mcpb) | 633.5 KiB | `other` |
+| [excel_mcp_server-2.3.1-py3-none-any.whl](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.1/excel_mcp_server-2.3.1-py3-none-any.whl) | 511.7 KiB | `other` |
+| [excel_mcp_server-2.3.1.tar.gz](https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.1/excel_mcp_server-2.3.1.tar.gz) | 413.0 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ excel-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T06:23:24Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T06:35:18Z._
