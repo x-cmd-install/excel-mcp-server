@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 652306,
       "digest": "sha256:19f62d1bf37598d1757884e51e7c340ef8b1d8187d1482c2da29b77ab01ea9d6",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-11-16T15:59:47Z",
       "updated_at": "2026-11-16T15:59:48Z",
       "browser_download_url": "https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.2/excel-mcp-server-2.3.2.mcpb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 652306,
       "digest": "sha256:19f62d1bf37598d1757884e51e7c340ef8b1d8187d1482c2da29b77ab01ea9d6",
-      "download_count": 35,
+      "download_count": 47,
       "created_at": "2026-11-16T15:59:47Z",
       "updated_at": "2026-11-16T15:59:47Z",
       "browser_download_url": "https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.2/excel-mcp-server.mcpb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 527370,
       "digest": "sha256:d0201d55d64d52a4cb1f0be25565631ab803e55dfc2eff286b1bc40a4a0e256c",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-16T15:59:47Z",
       "updated_at": "2026-11-16T15:59:47Z",
       "browser_download_url": "https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.2/excel_mcp_server-2.3.2-py3-none-any.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 425716,
       "digest": "sha256:e613f8c3e7557c575227403becc747f8fb55cd3f480a9e7407569dc2c37ccb96",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-16T15:59:47Z",
       "updated_at": "2026-11-16T15:59:47Z",
       "browser_download_url": "https://github.com/haris-musa/excel-mcp-server/releases/download/v2.3.2/excel_mcp_server-2.3.2.tar.gz"
