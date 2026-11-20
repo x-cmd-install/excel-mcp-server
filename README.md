@@ -33,27 +33,27 @@ Total: **187,552** lines of code across **373** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.2` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-20
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,315 · **Forks**: 488 · **Open issues**: 93 · **Contributors**: 13
+- **Stars**: 4,317 · **Forks**: 488 · **Open issues**: 92 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 127 · **Open PRs**: 1 · **Closed issues**: 93 · **Open issues**: 0 · **Commits**: 229
+- **Releases**: 28 · **Merged PRs**: 128 · **Open PRs**: 0 · **Closed issues**: 92 · **Open issues**: 0 · **Commits**: 230
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 11 | 32 | 1 | 4 | 0 | 47 |
-| last60d | 2026-09-20 | 20 | 89 | 1 | 10 | 0 | 183 |
-| 90d | 2026-08-21 | 20 | 89 | 1 | 14 | 0 | 183 |
-| last180d | 2026-05-23 | 20 | 89 | 1 | 20 | 0 | 183 |
-| 360d | 2025-11-24 | 21 | 91 | 1 | 35 | 0 | 186 |
-| last720d | 2024-11-29 | 28 | 127 | 1 | 93 | 0 | 229 |
+| 30d | 2026-10-21 | 11 | 32 | 0 | 4 | 0 | 48 |
+| last60d | 2026-09-21 | 20 | 90 | 0 | 10 | 0 | 184 |
+| 90d | 2026-08-22 | 20 | 90 | 0 | 14 | 0 | 184 |
+| last180d | 2026-05-24 | 20 | 90 | 0 | 20 | 0 | 184 |
+| 360d | 2025-11-25 | 21 | 92 | 0 | 34 | 0 | 187 |
+| last720d | 2024-11-30 | 28 | 128 | 0 | 92 | 0 | 230 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for excel-mcp-server lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:04:48Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:24:41Z._
