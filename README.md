@@ -38,7 +38,7 @@ Total: **188,022** lines of code across **375** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,320 · **Forks**: 488 · **Open issues**: 92 · **Contributors**: 13
+- **Stars**: 4,321 · **Forks**: 488 · **Open issues**: 92 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **188,022** lines of code across **375** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 11 | 33 | 0 | 4 | 0 | 50 |
-| last60d | 2026-09-22 | 21 | 91 | 0 | 10 | 0 | 186 |
-| 90d | 2026-08-23 | 21 | 91 | 0 | 14 | 0 | 186 |
-| last180d | 2026-05-25 | 21 | 91 | 0 | 20 | 0 | 186 |
-| 360d | 2025-11-26 | 22 | 93 | 0 | 34 | 0 | 189 |
-| last720d | 2024-12-01 | 29 | 129 | 0 | 92 | 0 | 232 |
+| 30d | 2026-10-23 | 11 | 33 | 0 | 4 | 0 | 50 |
+| last60d | 2026-09-23 | 21 | 91 | 0 | 10 | 0 | 186 |
+| 90d | 2026-08-24 | 21 | 91 | 0 | 13 | 0 | 186 |
+| last180d | 2026-05-26 | 21 | 91 | 0 | 20 | 0 | 186 |
+| 360d | 2025-11-27 | 22 | 93 | 0 | 34 | 0 | 189 |
+| last720d | 2024-12-02 | 29 | 129 | 0 | 92 | 0 | 232 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for excel-mcp-server lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:06:11Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:54:00Z._
