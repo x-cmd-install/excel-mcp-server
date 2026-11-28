@@ -1,0 +1,136 @@
+about:
+  description: "Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required."
+  license: MIT
+  homepage: https://excelmcpserver.com
+  head: aa9c33d
+  archived: false
+  latestVersion: "v2.3.7"
+  latestRelease: "v2.3.7"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:55:52Z
+timeline:
+  created: 2025-02-12
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 
+popularity:
+  star: 4332
+  watcher: 23
+  fork: 487
+  release: 33
+  contributor: 14
+  pullRequest: 184
+  issue: 93
+language:
+  Python: 2630203
+  Dockerfile: 414
+totalBytes: 2630617
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 15
+    mergedPR: 42
+    openPR: 0
+    closedIssue: 7
+    openIssue: 0
+    commit: 61
+  last60d:
+    since: 2026-09-29
+    release: 22
+    mergedPR: 98
+    openPR: 0
+    closedIssue: 13
+    openIssue: 0
+    commit: 191
+  last90d:
+    since: 2026-08-30
+    release: 25
+    mergedPR: 103
+    openPR: 0
+    closedIssue: 16
+    openIssue: 0
+    commit: 199
+  last180d:
+    since: 2026-06-01
+    release: 25
+    mergedPR: 103
+    openPR: 0
+    closedIssue: 22
+    openIssue: 0
+    commit: 199
+  last360d:
+    since: 2025-12-03
+    release: 26
+    mergedPR: 105
+    openPR: 0
+    closedIssue: 35
+    openIssue: 0
+    commit: 202
+  last720d:
+    since: 2024-12-08
+    release: 33
+    mergedPR: 141
+    openPR: 0
+    closedIssue: 93
+    openIssue: 0
+    commit: 245
+total:
+  release: 33
+  mergedPR: 141
+  openPR: 0
+  closedIssue: 93
+  openIssue: 0
+  commit: 245
+---
+path: /home/runner/.x-repo/github.com/haris-musa/excel-mcp-server
+collectedAt: 2026-11-28T07:55:53Z
+loc:
+  Json:
+    code: 128820
+    comments: 0
+    blanks: 0
+    files: 6
+  Python:
+    code: 59394
+    comments: 421
+    blanks: 9856
+    files: 366
+  Html:
+    code: 299
+    comments: 0
+    blanks: 11
+    files: 1
+  Toml:
+    code: 90
+    comments: 1
+    blanks: 9
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 0
+    blanks: 4
+    files: 1
+  Xml:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 7
+  Svg:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 6
+  Markdown:
+    code: 0
+    comments: 2417
+    blanks: 531
+    files: 8
+total:
+  code: 189066
+  comments: 2839
+  blanks: 10411
+  files: 396
+---
+
+---
